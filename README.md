@@ -18,5 +18,5 @@ This Dart program generates and prints a random motivational quote from a predef
 - Simple and easy to run.
 - Provides positive and uplifting messages.
 
-##Acknowledgments
+## Acknowledgments
 This simple program is created as a fun way to explore Dart and share positive vibes!
